@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33677b03-5a7b-4a1d-99f3-a9ba5d5651b0" name="Changes" comment="Python_Mega_Course Init">
-      <change afterPath="$PROJECT_DIR$/10.81.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.82.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AIVA_Status/config.example.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AIVA_Status/config.example.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AIVA_Status/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../AIVA_Status/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AIVA_Status/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../AIVA_Status/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.81.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.81.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.10.81.executor": "Run",
+    "Python.10.82.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -72,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770834430879</updated>
-      <workItem from="1770834432194" duration="772000" />
+      <workItem from="1770834432194" duration="1763000" />
     </task>
     <task id="LOCAL-00001" summary="Python_Mega_Course Init">
       <option name="closed" value="true" />
@@ -82,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770834824764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python_Mega_Course Init">
+      <option name="closed" value="true" />
+      <created>1770835228736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770835228736</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +114,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python_Mega_Course Init" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_Mega_Course$10_81.coverage" NAME="10.81 Coverage Results" MODIFIED="1770834907617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Mega_Course$10_81.coverage" NAME="10.81 Coverage Results" MODIFIED="1770835941258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Mega_Course$10_82.coverage" NAME="10.82 Coverage Results" MODIFIED="1770836167345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
